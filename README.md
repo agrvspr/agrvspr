@@ -1,5 +1,5 @@
 # Hi there 👋 I'm a student at Northeastern University majoring in computer science.
-## I'm most proficient in Java but I have programmed in OCaml and Python for classes
+## I'm most proficient in Java but I have programmed in OCaml and Python for class projects
 
 <!--
 **agrvspr/agrvspr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
