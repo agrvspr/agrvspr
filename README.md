@@ -16,5 +16,4 @@
 
 ## 📫 Connect With Me
 - 📧 Email: jea.d@northeastern.edu  
-- 💼 LinkedIn: [linkedin.com/in/daniel-jea-7772693a6](https://linkedin.com/in/daniel-jea-7772693a6)  
-- 🧑‍💻 GitHub: [github.com/agrvspr](https://github.com/agrvspr)
+- 💼 LinkedIn: [linkedin.com/in/daniel-jea-7772693a6](https://linkedin.com/in/daniel-jea-7772693a6) 
