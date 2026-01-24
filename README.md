@@ -12,7 +12,7 @@
 
 ## Beyond Coding
 - 🎮 Competitive esports player (Valorant, Overwatch, Marvel Rivals)
-- 🏆 Placed **2nd** in Men’s Olympic Recurve at NU Archery Invitational
+- 🏆 Placed 2nd in Men’s Olympic Recurve at NU Archery Invitational
 
 ## 📫 Connect With Me
 - 📧 Email: jea.d@northeastern.edu  
