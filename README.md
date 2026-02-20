@@ -17,4 +17,4 @@
 
 ## 📫 Connect With Me
 - 📧 Email: jea.d@northeastern.edu  
-- 💼 LinkedIn: [linkedin.com/in/daniel-jea-7772693a6](https://linkedin.com/in/daniel-jea) 
+- 💼 LinkedIn: [linkedin.com/in/daniel-jea](https://linkedin.com/in/daniel-jea) 
