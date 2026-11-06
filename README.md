@@ -6,7 +6,7 @@
 
 
 ## 🛠️ Tech Stack
-**Languages:** Java, Python, OCaml, Racket  
+**Languages:** Java, Python, Typescript, OCaml, Racket
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
 
