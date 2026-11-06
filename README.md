@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at **Northeastern University**  
 💻 Interested in **software engineering, machine learning, and game development**  
-📍 Boston, MA | 🗓️ Co-op Availability: **January-Auguest 2027**
+📍 Boston, MA | 🗓️ Co-op Availability: **January-August 2027**
 
 
 ## 🛠️ Tech Stack
